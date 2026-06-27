@@ -1,4 +1,15 @@
 ## 📊 Project Presentation
 
 ![Slide1](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide1.jpg)
-
+![Slide2](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide2.jpg)
+![Slide3](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide3.jpg)
+![Slide4](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide4.jpg)
+![Slide5](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide5.jpg)
+![Slide6](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide6.jpg)
+![Slide7](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide7.jpg)
+![Slide8](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide8.jpg)
+![Slide9](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide9.jpg)
+![Slide10](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide10.jpg)
+![Slide11](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide11.jpg)
+![Slide12](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide12.jpg)
+![Slide13](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide13.jpg)
