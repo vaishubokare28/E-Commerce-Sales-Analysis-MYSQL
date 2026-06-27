@@ -1,5 +1,9 @@
 ## 📊 Project Presentation
 
-You can view the complete project presentation here:
+## Slide 1
+![Slide 1](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/slide1.jpg)
 
-[![View PDF](https://github.com/vaishubokare28/E-Commerce-Sales-Analysis-MYSQL/blob/main/E-Commerce%20Sales%20Analysis.pdf)
+## Slide 2
+![Slide 2](images/slide2.png)
+
+📄 **Download Full Presentation:** [E-Commerce Sales Analysis.pdf](E-Commerce%20Sales%20Analysis.pdf)
